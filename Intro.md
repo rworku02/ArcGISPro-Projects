@@ -12,6 +12,11 @@ to be equal across classes. This made it look like there were more census tracts
 percentages of foreign born than in map 1. The first map using natural breaks is more
 accurate since it breaks up the data based on groupings of similar data.
 
+<img width="612" height="792" alt="image" src="https://github.com/user-attachments/assets/9adaf18d-262c-4abd-9488-4de2df62d006" />
+
+<img width="612" height="792" alt="image" src="https://github.com/user-attachments/assets/e90976da-8b69-4023-bff9-d617ff61f475" />
+
+
 [map1.pdf](https://github.com/user-attachments/files/22569820/map1.pdf)
 [map2.pdf](https://github.com/user-attachments/files/22569821/map2.pdf)
 
